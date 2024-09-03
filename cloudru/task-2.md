@@ -1,6 +1,6 @@
-## Текст подсказки
+# Текст подсказки
 
-{{< image src="/images/2024-cloud/continue.png" width="500px" >}}
+![Текст всплывающей подсказки](continue.jpg)
 
 Текст: 
 
